@@ -4,6 +4,12 @@
 
 This data analysis project aims to give insight into airline customer service by analysing the vaious ways services are rendered to passenger and how satisfied the passengers are with the services provided. 
 
+
+![IMG_4718](https://github.com/user-attachments/assets/9f2e78e0-2905-484f-b50b-e63e11c2e2c3)
+
+
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the "Airline_customer_satisfaction.csv" file, containing details information about the airline, each service render both onboarding and in the flight. 
